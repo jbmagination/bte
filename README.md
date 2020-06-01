@@ -16,6 +16,12 @@ Resource Loader - "You can use this mod in any modpack without asking first"
 
 <h2 align="center">Screenshots</h2>
 
+<p align="center"><img src="https://github.com/jbmagination/bte/blob/master/2020-05-31_22.09.30.png?raw=true"></img></p>
+<p align="center">The customized home menu.</p>
+</br></br>
+<p align="center"><img src="https://github.com/jbmagination/bte/blob/master/2020-05-31_21.27.34_5.png?raw=true"></img></p>
+<p align="center">The custom background.</p>
+
 <h2 align="center">Instructions</h2>
 <p>First, head to your Build The Earth directory, and open <code>saves</code>. Change the folder name from <code>Build The Earth (new projection)</code> to <code>buildtheearth</code>.</p>
 <p>Download the .zip file from <a href="https://github.com/jbmagination/bte/releases/download/btemainmenu/btemainmenu.zip">here</a>, and open it. Drag everything in <code>mods</code> and <code>config</code> to their matching folders in Build The Earth. Then, drag <code>resources</code> in as well.</p>
