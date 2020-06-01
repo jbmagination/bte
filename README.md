@@ -24,7 +24,7 @@ A new logo has been added, replacing "Minecraft: Java Edition" with "Build The E
 First, head to your Build The Earth directory, and open <code>saves</code>. Change the folder name from <code>Build The Earth (new projection)</code> to <code>buildtheearth</code>.
 </br></br>
 <p>Download the .zip file from <a href="https://github.com/jbmagination/bte/releases/download/btemainmenu/btemainmenu.zip">here</a>, and open it. Drag everything in <code>mods</code> and <code>config</code> to their matching folders in Build The Earth. Then, drag <code>resources</code> in as well.</p>
-</br></br>
+</br>
 Now, simply launch the game.
 </br></br>
 The game should contain the customized main menu.
