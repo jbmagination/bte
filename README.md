@@ -12,6 +12,7 @@ Resource Loader - "You can use this mod in any modpack without asking first"
 <p>The language button is now at the bottom of the screen, below "Options" and "Quit Game".</p>
 <p>The boring dirt background when loading a world, in the multiplayer screen, options, etc. is now flowing water.</p>
 <p>A new logo has been added, replacing "Minecraft: Java Edition" with "Build The Earth".</p>
+<p>All splashes are removed, alongside the Forge mod loader and Mojang copyright text.</p>
 
 <h2 align="center">Screenshots</h2>
 
